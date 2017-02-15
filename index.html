@@ -1,7 +1,13 @@
 ---
 layout: page
-description: "A Clean Blog Theme by Start Bootstrap"
+description: "Mechatronics, Controls, Mechanical Engineering"
 ---
+<h2> About </h2>
+ <p> I am a Mechanical Engineering graduate student and programmer at Florida State University interested in the research and development of mechatronic and control systems. </p>
+
+ <p> I would love to work on making big things move safely by combining my programming and mechanical engineering backgrounds.</p>
+ 
+<h2> Projects </h2>
 
 {% for post in paginator.posts %}
 <div class="post-preview">
@@ -14,7 +20,6 @@ description: "A Clean Blog Theme by Start Bootstrap"
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
 {% endfor %}
@@ -24,12 +29,12 @@ description: "A Clean Blog Theme by Start Bootstrap"
 <ul class="pager">
     {% if paginator.previous_page %}
     <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer</a>
     </li>
     {% endif %}
     {% if paginator.next_page %}
     <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older  &rarr;</a>
     </li>
     {% endif %}
 </ul>
