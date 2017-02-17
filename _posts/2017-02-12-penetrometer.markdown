@@ -2,7 +2,7 @@
 layout:     post
 title:      "National Park Service DAQ"
 subtitle: "Design and testing of penetrometer and web controlled data acquisition system."
-date:       2014-07-01 12:00:00
+date:       2017-02-12 12:00:00
 author:     "James Pace"
 header-img: "img/nasa_sattellite.jpg"
 ---

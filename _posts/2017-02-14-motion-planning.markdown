@@ -2,7 +2,7 @@
 layout:     post
 title:      "3D Motion Planning Visualization"
 subtitle: "Visualization of SBMPO Motion Planning Algorithm in Unity 3D."
-date:       2014-07-01 12:00:00
+date:       2017-02-14 12:00:00
 author:     "James Pace"
 header-img: "img/nasa_sattellite.jpg"
 ---

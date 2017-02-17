@@ -2,7 +2,7 @@
 layout:     post
 title:      "Robotic Xylophone"
 subtitle: "Xylphone playing robot using eight solenoids."
-date:       2014-07-01 12:00:00
+date:       2017-02-11 12:00:00
 author:     "James Pace"
 header-img: "img/nasa_sattellite.jpg"
 ---

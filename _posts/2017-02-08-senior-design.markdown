@@ -2,7 +2,7 @@
 layout:     post
 title:      "Senior Design Competition Robot"
 subtitle: "IEEE SouthEastCon Hardware Competition"
-date:       2014-07-01 12:00:00
+date:       2017-02-08 12:00:00
 author:     "James Pace"
 header-img: "img/nasa_sattellite.jpg"
 ---
