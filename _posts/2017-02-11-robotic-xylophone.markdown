@@ -7,6 +7,6 @@ author:     "James Pace"
 header-img: "img/nasa_sattellite.jpg"
 ---
 
-![CAD of Xylophone](/img/xylophone-cad.png)
+![CAD of Xylophone]({{site.baseurl}}/img/xylophone-cad.png)
 
 Design of device that plays a kid's toy xylophone using small 5V solenoids. Project worked on during my free time. Work includes CAD and PCB layout. Current status can be found on my [blog](http://jpace121.github.io/posts/).

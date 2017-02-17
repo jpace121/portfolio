@@ -4,8 +4,8 @@ header-img: img/marsSurface.jpg
 email: jpace121@gmail.com
 copyright_name: James Pace
 description: "James Pace Portfolio"
-baseurl: ""
-url: "http://yourdomain.com"
+baseurl: "/portfolio"
+url: "https://jpace121.github.io"
 twitter_username: 
 github_username:  jpace121
 facebook_username:
