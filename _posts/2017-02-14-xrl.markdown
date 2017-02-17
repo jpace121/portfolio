@@ -6,5 +6,6 @@ date:       2014-07-01 12:00:00
 author:     "James Pace"
 header-img: "img/nasa_sattellite.jpg"
 ---
+![XRL Robot](/img/xrl-robot.jpg)
 
 Helped develop kinematic model of XRL robot relating gait parameters to forward and angular velocity using Machine Learning techniques. Personally wrote program that combines data from VICON motion capture system and data from the robot.

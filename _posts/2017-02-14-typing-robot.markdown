@@ -7,4 +7,6 @@ author:     "James Pace"
 header-img: "img/nasa_sattellite.jpg"
 ---
 
+![typing robot](/img/intro-robot.png)
+
 Designed and modeled a 4DOF robotic manipulator in Fusion 360 that can quickly type messages on a standard keyboard.
