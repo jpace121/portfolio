@@ -8,4 +8,4 @@ header-img: "img/nasa_sattellite.jpg"
 ---
 ![XRL Robot]({{site.baseurl}}/img/xrl-robot.jpg)
 
-Helped develop kinematic model of XRL robot relating gait parameters to forward and angular velocity using Machine Learning techniques. Personally wrote program that combines data from VICON motion capture system and data from the robot.
+Helped develop kinematic model of XRL robot relating gait parameters to forward and angular velocity using Machine Learning techniques. Personally wrote program that combines data from VICON motion capture system with data from the robot.
